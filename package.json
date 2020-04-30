@@ -98,7 +98,7 @@
         "apexcharts": "^3.8.2",
         "bootstrap": "^4.3.1",
         "cross-env": "^5.2.0",
-        "jquery": "3.4.1",
+        "jquery": "3.5.0",
         "jquery.easing": "^1.4.1",
         "material-table": "^1.40.1",
         "material-ui": "^0.20.2",
